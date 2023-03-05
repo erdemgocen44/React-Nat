@@ -45,7 +45,7 @@ console.log(fullName);
 // const serverPassword; // sadece degisken tanimlandi ama ici bos ??
 
 // const ile degisken tanimlamak:
-const SERVER_PASSWORD = "oisjefo9jwes221";
+const SERVER_PASSWORD = "oisjefo9jwes21";
 console.log(SERVER_PASSWORD);
 
 // SERVER_PASSWORD = "1234"
