@@ -50,6 +50,8 @@ console.log("Koli Kalan Urun Ornegi: ", 18 % 8)
 console.log(2 * 2 * 2 * 2)
 console.log(2 ** 4)
 
+console.log(2);
+
 // asagi yuvarlama islemi -> Math.floor:
 console.log("Asagi Yuvarlama:", Math.floor(1.9) )  // -> 1
 
