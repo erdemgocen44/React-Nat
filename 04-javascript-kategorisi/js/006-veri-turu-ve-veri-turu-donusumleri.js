@@ -23,6 +23,10 @@ console.log(
 )
 
 // string(metinsel) bilgileri int ve float'a donusturmek
+let number0= '10'
+console.log('number0: ', parseInt(number0),typeof(number0))
+number0=parseFloat(number0)
+
 let number1 = "11"
 number1 = parseInt(number1)
 console.log("number1: ", number1, typeof(number1) )
