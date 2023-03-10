@@ -5,6 +5,8 @@ let price = 111
 let stringPrice = "111"
 let hasPassword = true
 
+console.log('Price: ', typeof(price),);
+
 console.log(
     "price: ",
     typeof(price)
