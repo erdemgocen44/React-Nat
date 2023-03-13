@@ -42,3 +42,11 @@ let language = "Java";
 language = language.replace("Java", "JAVASCRIPT");
 
 console.log(language);
+
+console.log(url.indexOf("."));
+
+let DOMAIN2 = "";
+
+DOMAIN2 = url.slice(3 + 1);
+
+console.log(DOMAIN2);
